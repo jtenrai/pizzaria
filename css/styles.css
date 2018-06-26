@@ -1,0 +1,40 @@
+body{
+    background-image: url("/assets/pepp.jpeg");
+    /* background-color: red; */
+    font-family: 'Kanit', sans-serif;
+}
+h1{
+text-align: center;
+}
+
+
+.topMenu{
+    text-align: center;
+}
+.guide{
+    display: inline;
+    text-align: center;
+}
+
+#menu{
+    text-align: center;
+    width: 70%;
+    margin: 0 auto;
+    display: block;
+}
+.pizzaName{
+    font-weight: bolder;
+}
+
+.pizza{
+
+}
+
+img{
+    width: 100px;
+    height: 100px;
+} 
+
+div.content{
+    border-style: solid;
+}
